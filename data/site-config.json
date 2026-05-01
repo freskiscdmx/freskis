@@ -1,0 +1,73 @@
+{
+  "businessName": "Freskis + La Gran Pantalla",
+  "slogan": "Antojo, frescura y diversión en cada pedido.",
+  "description": "Menú digital para pedidos en sitio, para llevar y a domicilio con envío de comanda por WhatsApp.",
+  "location": "Calle Av. Miguel Hidalgo Esq. con Lago de Pátzcuaro, Col. Jardines de Morelos, Ecatepec, Edo. de México",
+  "hours": "Miercoles a Lunes · 4:00 pm a 10:30 pm",
+  "phones": [
+    "525547719349",
+    "7294788443"
+  ],
+  "whatsappLabel": [
+    "Solicita en Sucursal",
+    "Solicita a Domicilio"
+  ],
+  "deliveryPrompt": "Comparte aquí tu ubicación de WhatsApp/Maps",
+  "musicEnabled": true,
+  "musicFile": "assets/audio/Freskis1.mp3",
+  "noticeActive": false,
+  "noticeTitle": "Aviso importante",
+  "noticeText": "Consulta aquí nuestro aviso vigente.",
+  "noticeFile": "assets/img/Aviso.pdf",
+  "theme": {
+    "primary": "#ff4f8b",
+    "secondary": "#ffb703",
+    "accent": "#ff7a59",
+    "bg": "#fff8f2",
+    "surface": "#fffdf9",
+    "text": "#432818",
+    "muted": "#8d6e63"
+  },
+  "advertising": {
+    "top": {
+      "active": true,
+      "website": "https://chenistry.com.mx/",
+      "phone": "5613037792",
+      "phone2": "5656945438",
+      "email": "karen.rodriguez@chenistry.com.mx",
+      "link": "https://wa.me/525613037792?text=Hola%2C%20quiero%20informes%20de%20sus%20productos%20Quimicos",
+      "title": "Chenistry",
+      "text": "Somos una empresa mexicana dedicada distribución de productos químicos. Contamos con personal altamente capacitado para brindar atención personalizada a cada uno de sus requerimientos superando las expectativas de calidad, precio y servicios con valor agregado.",
+      "button": "Dame informacion",
+      "image": "assets/img/Chenistry.svg"
+    },
+    "middle": {
+      "active": true,
+      "website": "https://gamelabmx.github.io/GameLab/index.html",
+      "phone": "5547719349",
+      "phone2": "5591618934",
+      "email": "vicente.rodriguezm@outlook.com",
+      "link": "https://wa.me/525547719349?text=Me%20Proporciona%20informes%20sobre%20los%20cursos",
+      "title": "Academia Digital GameLab",
+      "text": "En Academia Digital GameLab formamos a niños y jóvenes en programación, creatividad y pensamiento lógico con una propuesta moderna, segura y alineada con las habilidades del futuro.",
+      "button": "Informes",
+      "image": "assets/img/logo-gamelab.png"
+    },
+    "alliesEnabled": true,
+    "allies": [
+      {
+        "id": "8969688a-9c73-43e2-bd3f-5c4513c6fba4",
+        "name": "Liceo Humanista Cervantes",
+        "description": "Conviértete en lashista y aprende una habilidad que puede abrirte puertas al autoempleo, generar ingresos y ayudarte a crecer profesionalmente. En Las Americas, Ecatepec",
+        "image": "assets/img/Logo-Lashista.png",
+        "link": "https://wa.me/525591618934?text=Me%20Proporciona%20informes%20sobre%20los%20cursos",
+        "website": "En desarrollo",
+        "phone": "5591618934",
+        "phone2": "5547719349",
+        "email": "veronica.aguilar2909@gmail.com",
+        "button": "Informes",
+        "priority": 1
+      }
+    ]
+  }
+}
